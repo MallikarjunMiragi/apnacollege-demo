@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my first repository
-Author - Mallikarjun Miragi
 
+This is my repository
+Author - Mallikarjun Miragi
