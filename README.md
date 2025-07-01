@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is git demo
+This is my first repository
+Author - Mallikarjun Miragi
+
